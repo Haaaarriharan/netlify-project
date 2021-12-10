@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.heading {
+    align-items: center;
+    text-align: center;
+    background-color: rgb(210, 212, 214);
+    
+
+}
+.myname {
+    color: black;
+    font-size: 50px;
+    font-family: sans-serif;
+    bottom: 15px;
+    padding: 15px;
+
+    
+}
+.myoccupation {
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding:5px ;
+}
+.nav-pills {
+    display: flex;
+    justify-content: space-around;
+    
+    padding: 20px;
+    margin: 15px;
+}
+.nav-item {
+    background-color: rgb(72, 72, 235);
+    list-style-type: none;
+    width: 100%;
+    border-radius: 15px;
+}
+.nav-link {
+    color: whitesmoke;
+
+    
+    
+}
